@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\f5edf448c300848d523a875297dd9a1e\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bdc761f68a1058ff50a918b2bcc16e16\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\7a0cc0be894e023ff170ee76dc6c2d74\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\f68628800777c459c3324173db53acd6\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\94363ae44f0c059c5adfddf435a643fe\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\e10704155300a03f67119fc7df938916\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\3cbe50e9074d3e6c895b1496f3e13b94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\14e154cb0bb81a459f4501ec167177b5\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\c8d44275ba3f19860abc6a483263dfa1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\259af5ef07fb5fb8a989efa24b45ed30\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\053a636808d08c66083493e843e11bc2\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\2cc9705751fba48d60354ad5bd7a4678\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\f392660789e411f4595628bd03de4f43\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\e1ec197ef35c172b7251abdf7454b2fb\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\61586393bf08ba87ec8ed33bec9fc8cb\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\a1acdc7cf9ff474d8ef55ae2ff0cd18b\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\f7545ef5edddc1673eb870c006749e47\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\919ac33aeba5f14caea73228c34d3a4c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\332a36d0d100cde853361386408d9943\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\35859bd5b1b93901b6ba4a685f1d89d3\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\9e8ce9bdea300228db465790ad4a1234\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\085b6d3addaf55c6e4f598e2406f3551\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5bd606a04810f99e25ad0a1922ca2c3a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bf66341e9adbd6355f5fef0f69b42d30\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\97320214d94d2aa0b22ff922ff312100\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bdc761f68a1058ff50a918b2bcc16e16\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bdc761f68a1058ff50a918b2bcc16e16\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:11:9-40
+activity#me.mahakagg.helloconstraintHW.MainActivity
+ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:12:19-76
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:16:27-74
+activity#me.mahakagg.helloconstraintHW.SecondActivity
+ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:19:9-90
+	android:name
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml:19:19-78
+uses-sdk
+INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\f5edf448c300848d523a875297dd9a1e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\f5edf448c300848d523a875297dd9a1e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bdc761f68a1058ff50a918b2bcc16e16\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bdc761f68a1058ff50a918b2bcc16e16\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\7a0cc0be894e023ff170ee76dc6c2d74\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\7a0cc0be894e023ff170ee76dc6c2d74\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\f68628800777c459c3324173db53acd6\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\f68628800777c459c3324173db53acd6\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\94363ae44f0c059c5adfddf435a643fe\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\94363ae44f0c059c5adfddf435a643fe\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\e10704155300a03f67119fc7df938916\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\e10704155300a03f67119fc7df938916\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\3cbe50e9074d3e6c895b1496f3e13b94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\3cbe50e9074d3e6c895b1496f3e13b94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\14e154cb0bb81a459f4501ec167177b5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\14e154cb0bb81a459f4501ec167177b5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\c8d44275ba3f19860abc6a483263dfa1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\c8d44275ba3f19860abc6a483263dfa1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\259af5ef07fb5fb8a989efa24b45ed30\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\259af5ef07fb5fb8a989efa24b45ed30\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\053a636808d08c66083493e843e11bc2\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\053a636808d08c66083493e843e11bc2\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\2cc9705751fba48d60354ad5bd7a4678\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\2cc9705751fba48d60354ad5bd7a4678\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\f392660789e411f4595628bd03de4f43\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\f392660789e411f4595628bd03de4f43\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\e1ec197ef35c172b7251abdf7454b2fb\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\e1ec197ef35c172b7251abdf7454b2fb\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\61586393bf08ba87ec8ed33bec9fc8cb\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\61586393bf08ba87ec8ed33bec9fc8cb\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\a1acdc7cf9ff474d8ef55ae2ff0cd18b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\a1acdc7cf9ff474d8ef55ae2ff0cd18b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\f7545ef5edddc1673eb870c006749e47\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\f7545ef5edddc1673eb870c006749e47\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\919ac33aeba5f14caea73228c34d3a4c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\919ac33aeba5f14caea73228c34d3a4c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\332a36d0d100cde853361386408d9943\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\332a36d0d100cde853361386408d9943\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\35859bd5b1b93901b6ba4a685f1d89d3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\35859bd5b1b93901b6ba4a685f1d89d3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\9e8ce9bdea300228db465790ad4a1234\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\9e8ce9bdea300228db465790ad4a1234\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\085b6d3addaf55c6e4f598e2406f3551\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\085b6d3addaf55c6e4f598e2406f3551\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5bd606a04810f99e25ad0a1922ca2c3a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5bd606a04810f99e25ad0a1922ca2c3a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bf66341e9adbd6355f5fef0f69b42d30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bf66341e9adbd6355f5fef0f69b42d30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\97320214d94d2aa0b22ff922ff312100\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sijan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\97320214d94d2aa0b22ff922ff312100\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sijan\AndroidStudioProjects\The-Layout-Editor-HomeWork\The-Layout-Editor-HomeWork\app\src\main\AndroidManifest.xml
